@@ -1,3 +1,3 @@
 # FCFM
-Archivos Fcfm
-npm install -g gatsby-cli
+## 7mo
+### Investigación de Operaciones
