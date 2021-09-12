@@ -1,5 +1,6 @@
 # FCFM
-## 7mo
+## 7mo Archivos
+### Estadística Aplicada
 ### Investigación de Operaciones
 #### Parcial 1
 Introducción (https://github.com/Emilio741/FCFM/blob/main/0%20-%20Introduccion.pdf)
@@ -9,5 +10,6 @@ Presentacion 1: Historia Inv(https://github.com/Emilio741/FCFM/blob/main/1%20-%2
 Presentación 2: Progrmación Matemática (https://github.com/Emilio741/FCFM/blob/main/2%20-%20Programacion%20matematica.pdf)
 
 Parcial 1 (https://github.com/Emilio741/FCFM/blob/main/1erparcial_IO3.pdf)
+
 Parcial 1 Contestado (https://github.com/Emilio741/FCFM/blob/main/EP1_LMRE1852600.pdf)
 #### Parcial 2
