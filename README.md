@@ -9,7 +9,10 @@ Presentacion 1 (https://github.com/Emilio741/FCFM/blob/main/1.Series_de_Tiempo.p
 Presentacion 2 Modelos de Series Estacionarias (https://github.com/Emilio741/FCFM/blob/main/2.Modelos_Series_Estacionarias.pdf)
 
 Presentacion 3 ARIMA y supuestos (https://github.com/Emilio741/FCFM/blob/main/3.ARIMAySupuestos.pdf)
-Evidencia 3 
+
+Evidencia 3  Sin tocar (https://github.com/Emilio741/FCFM/blob/main/Evidencia3.pdf)
+
+Evidencia 3 CSV ()
 
 Evidencia 3 Tutorial Parte 1 (https://youtu.be/MLJ6iIL-REU)
 
