@@ -10,7 +10,7 @@ Evidencia 3 Tutorial Parte 1 (https://youtu.be/MLJ6iIL-REU)
 
 Evidencia 3 Tutorial Parte 2 (https://youtu.be/wgKh5rpT_gM)
 
-Evidencia 3 Tutorial Parte 3 ()
+Evidencia 3 Tutorial Parte 3 (https://youtu.be/t_a2xKsv_TU)
 
 ### Investigación de Operaciones
 #### Parcial 1
