@@ -2,7 +2,9 @@
 ## 7mo Archivos
 ### Estadística Aplicada
 
+#### Series de Tiempo
 
+Presentacion 1 (https://github.com/Emilio741/FCFM/blob/main/1.Series_de_Tiempo.pdf)
 
 Evidencia 3 
 
