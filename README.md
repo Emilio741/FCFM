@@ -1,6 +1,17 @@
 # FCFM
 ## 7mo Archivos
 ### Estadística Aplicada
+
+
+
+Evidencia 3 
+
+Evidencia 3 Tutorial Parte 1 (https://youtu.be/MLJ6iIL-REU)
+
+Evidencia 3 Tutorial Parte 2 ()
+
+Evidencia 3 Tutorial Parte 3 ()
+
 ### Investigación de Operaciones
 #### Parcial 1
 Introducción (https://github.com/Emilio741/FCFM/blob/main/0%20-%20Introduccion.pdf)
