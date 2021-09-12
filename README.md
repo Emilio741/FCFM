@@ -6,6 +6,8 @@
 
 Presentacion 1 (https://github.com/Emilio741/FCFM/blob/main/1.Series_de_Tiempo.pdf)
 
+Presentacion 2 Modelos de Series Estacionarias (https://github.com/Emilio741/FCFM/blob/main/2.Modelos_Series_Estacionarias.pdf)
+
 Evidencia 3 
 
 Evidencia 3 Tutorial Parte 1 (https://youtu.be/MLJ6iIL-REU)
