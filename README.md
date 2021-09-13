@@ -7,6 +7,7 @@
 
 Clase 1 (https://youtu.be/OLkCPlnLbQ0)
 
+Clase 2 (https://youtu.be/vbLJ6Ujk3OE)
 
 ### Estadística Aplicada
 
