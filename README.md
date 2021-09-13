@@ -1,5 +1,13 @@
 # FCFM
 ## 7mo Archivos
+
+### Procesos Estocásticos
+
+#### Parcial 2 
+
+Clase 1 (https://youtu.be/OLkCPlnLbQ0)
+
+
 ### Estadística Aplicada
 
 #### Series de Tiempo
