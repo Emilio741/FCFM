@@ -31,7 +31,10 @@ Evidencia 3 Tutorial Parte 2 (https://youtu.be/wgKh5rpT_gM)
 
 Evidencia 3 Tutorial Parte 3 (https://youtu.be/t_a2xKsv_TU)
 
+Evaluación 1 (https://github.com/Emilio741/FCFM/blob/main/PRIMERA%20EVALUACIO%CC%81N.pdf)
+
 Evaluación 1 Tutorial (https://youtu.be/aDx25HgZu5s)
+
 
 ### Investigación de Operaciones
 #### Parcial 1
