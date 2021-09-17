@@ -17,6 +17,8 @@ Clase 3 (https://youtu.be/mbbNsFAdZ6Y)
 
 Presentacion 1 (https://github.com/Emilio741/FCFM/blob/main/1.Series_de_Tiempo.pdf)
 
+Evidencia 1 (https://github.com/Emilio741/FCFM/blob/main/Procesos%20Parcial.pdf)
+
 Presentacion 2 Modelos de Series Estacionarias (https://github.com/Emilio741/FCFM/blob/main/2.Modelos_Series_Estacionarias.pdf)
 
 Presentacion 3 ARIMA y supuestos (https://github.com/Emilio741/FCFM/blob/main/3.ARIMAySupuestos.pdf)
