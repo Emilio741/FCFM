@@ -15,6 +15,8 @@ Clase 2 (https://youtu.be/vbLJ6Ujk3OE)
 
 Clase 3 (https://youtu.be/mbbNsFAdZ6Y)
 
+Clase 4 (https://youtu.be/kQkD2UWvLuQ)
+
 ### Estadística Aplicada
 
 #### Series de Tiempo
