@@ -5,7 +5,7 @@
 
 #### Parcial 2 
 
-Esperanza Vida PPT
+Esperanza Vida PPT (https://github.com/Emilio741/FCFM/blob/main/3.5.%20Esperanza%20de%20vida%20falta%20incluir%20media%20y%20mediana%20formulas%20Pressant.pdf)
 
 Esperanza Vida Excel
 
