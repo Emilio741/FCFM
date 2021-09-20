@@ -9,7 +9,7 @@ Esperanza Vida PPT (https://github.com/Emilio741/FCFM/blob/main/3.5.%20Esperanza
 
 Esperanza Vida Excel
 
-Esperanza Vida Libro
+Esperanza Vida Libro (https://github.com/Emilio741/FCFM/blob/main/MEDIA%20MODA%20Y%20MEDIANA%20PRESSAT.pdf)
 
 Esperanza Vida Tarea
 
