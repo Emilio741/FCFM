@@ -3,6 +3,15 @@
 
 ### Demografía
 
+#### Parcial 2 
+
+Esperanza Vida PPT
+
+Esperanza Vida Excel
+
+Esperanza Vida Libro
+
+Esperanza Vida Tarea
 
 ### Procesos Estocásticos
 
