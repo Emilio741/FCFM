@@ -7,7 +7,7 @@
 
 Esperanza Vida PPT (https://github.com/Emilio741/FCFM/blob/main/3.5.%20Esperanza%20de%20vida%20falta%20incluir%20media%20y%20mediana%20formulas%20Pressant.pdf)
 
-Esperanza Vida Excel
+Esperanza Vida Excel (https://github.com/Emilio741/FCFM/blob/main/e0.xlsx)
 
 Esperanza Vida Libro (https://github.com/Emilio741/FCFM/blob/main/MEDIA%20MODA%20Y%20MEDIANA%20PRESSAT.pdf)
 
