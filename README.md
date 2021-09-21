@@ -29,6 +29,8 @@ Esperanza Vida Tarea
 
 [Clase 4](https://youtu.be/kQkD2UWvLuQ)
 
+[Clase 5](https://youtu.be/dwbsnSfhAoY)
+
 ### Estadística Aplicada
 
 #### Series de Tiempo
