@@ -7,9 +7,9 @@
 
 [Esperanza Vida PPT](https://github.com/Emilio741/FCFM/blob/main/3.5.%20Esperanza%20de%20vida%20falta%20incluir%20media%20y%20mediana%20formulas%20Pressant.pdf)
 
-Esperanza Vida Excel (https://github.com/Emilio741/FCFM/blob/main/e0.xlsx)
+[Esperanza Vida Excel](https://github.com/Emilio741/FCFM/blob/main/e0.xlsx)
 
-Esperanza Vida Libro (https://github.com/Emilio741/FCFM/blob/main/MEDIA%20MODA%20Y%20MEDIANA%20PRESSAT.pdf)
+[Esperanza Vida Libro](https://github.com/Emilio741/FCFM/blob/main/MEDIA%20MODA%20Y%20MEDIANA%20PRESSAT.pdf)
 
 Esperanza Vida Tarea
 
@@ -17,54 +17,54 @@ Esperanza Vida Tarea
 
 #### Parcial 1
 
-Parcial 1 (https://github.com/Emilio741/FCFM/blob/main/Procesos%20Parcial.pdf)
+[Parcial 1](https://github.com/Emilio741/FCFM/blob/main/Procesos%20Parcial.pdf)
 
 #### Parcial 2 
 
-Clase 1 (https://youtu.be/OLkCPlnLbQ0)
+[Clase 1](https://youtu.be/OLkCPlnLbQ0)
 
-Clase 2 (https://youtu.be/vbLJ6Ujk3OE)
+[Clase 2](https://youtu.be/vbLJ6Ujk3OE)
 
-Clase 3 (https://youtu.be/mbbNsFAdZ6Y)
+[Clase 3](https://youtu.be/mbbNsFAdZ6Y)
 
-Clase 4 (https://youtu.be/kQkD2UWvLuQ)
+[Clase 4](https://youtu.be/kQkD2UWvLuQ)
 
 ### Estadística Aplicada
 
 #### Series de Tiempo
 
-Presentacion 1 (https://github.com/Emilio741/FCFM/blob/main/1.Series_de_Tiempo.pdf)
+[Presentacion 1](https://github.com/Emilio741/FCFM/blob/main/1.Series_de_Tiempo.pdf)
 
-Evidencia 1 Calificacion 80(https://github.com/Emilio741/FCFM/blob/main/Evidencia1A.rar)
+[Evidencia 1 Calificacion 80](https://github.com/Emilio741/FCFM/blob/main/Evidencia1A.rar)
 
-Presentacion 2 Modelos de Series Estacionarias (https://github.com/Emilio741/FCFM/blob/main/2.Modelos_Series_Estacionarias.pdf)
+[Presentacion 2 Modelos de Series Estacionarias](https://github.com/Emilio741/FCFM/blob/main/2.Modelos_Series_Estacionarias.pdf)
 
-Presentacion 3 ARIMA y supuestos (https://github.com/Emilio741/FCFM/blob/main/3.ARIMAySupuestos.pdf)
+[Presentacion 3 ARIMA y supuestos](https://github.com/Emilio741/FCFM/blob/main/3.ARIMAySupuestos.pdf)
 
-Evidencia 3  Sin tocar (https://github.com/Emilio741/FCFM/blob/main/Evidencia3.pdf)
+[Evidencia 3  Sin tocar](https://github.com/Emilio741/FCFM/blob/main/Evidencia3.pdf)
 
-Evidencia 3 CSV (https://github.com/Emilio741/FCFM/blob/main/SerieTempMaxMty.csv)
+[Evidencia 3 CSV](https://github.com/Emilio741/FCFM/blob/main/SerieTempMaxMty.csv)
 
-Evidencia 3 Tutorial Parte 1 (https://youtu.be/MLJ6iIL-REU)
+[Evidencia 3 Tutorial Parte 1](https://youtu.be/MLJ6iIL-REU)
 
-Evidencia 3 Tutorial Parte 2 (https://youtu.be/wgKh5rpT_gM)
+[Evidencia 3 Tutorial Parte 2](https://youtu.be/wgKh5rpT_gM)
 
-Evidencia 3 Tutorial Parte 3 (https://youtu.be/t_a2xKsv_TU)
+[Evidencia 3 Tutorial Parte 3](https://youtu.be/t_a2xKsv_TU)
 
-Evaluación 1 (https://github.com/Emilio741/FCFM/blob/main/PRIMERA%20EVALUACIO%CC%81N.pdf)
+[Evaluación 1](https://github.com/Emilio741/FCFM/blob/main/PR[IMERA%20EVALUACIO%CC%81N.pdf)
 
-Evaluación 1 Tutorial (https://youtu.be/aDx25HgZu5s)
+[Evaluación 1 Tutorial](https://youtu.be/aDx25HgZu5s)
 
 
 ### Investigación de Operaciones
 #### Parcial 1
-Introducción (https://github.com/Emilio741/FCFM/blob/main/0%20-%20Introduccion.pdf)
+[Introducción](https://github.com/Emilio741/FCFM/blob/main/0%20-%20Introduccion.pdf)
 
-Presentacion 1: Historia Inv(https://github.com/Emilio741/FCFM/blob/main/1%20-%20Desarrollo%20histo%CC%81rico%20de%20la%20investigacio%CC%81n%20de%20operaciones.pdf)
+[Presentacion 1: Historia Inv](https://github.com/Emilio741/FCFM/blob/main/1%20-%20Desarrollo%20histo%CC%81rico%20de%20la%20investigacio%CC%81n%20de%20operaciones.pdf)
 
-Presentación 2: Progrmación Matemática (https://github.com/Emilio741/FCFM/blob/main/2%20-%20Programacion%20matematica.pdf)
+[Presentación 2: Progrmación Matemática](https://github.com/Emilio741/FCFM/blob/main/2%20-%20Programacion%20matematica.pdf)
 
-Parcial 1 (https://github.com/Emilio741/FCFM/blob/main/1erparcial_IO3.pdf)
+[Parcial 1](https://github.com/Emilio741/FCFM/blob/main/1erparcial_IO3.pdf)
 
-Parcial 1 Contestado (https://github.com/Emilio741/FCFM/blob/main/EP1_LMRE1852600.pdf)
+[Parcial 1 Contestado](https://github.com/Emilio741/FCFM/blob/main/EP1_LMRE1852600.pdf)
 #### Parcial 2
