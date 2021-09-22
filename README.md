@@ -41,7 +41,7 @@ Esperanza Vida Tarea
 
 [Presentacion 2 Modelos de Series Estacionarias](https://github.com/Emilio741/FCFM/blob/main/2.Modelos_Series_Estacionarias.pdf)
 
-[Evidencia 1 Calificacion 95](https://github.com/Emilio741/FCFM/blob/main/Evidencia2B.rar)
+[Evidencia 2 Calificacion 95](https://github.com/Emilio741/FCFM/blob/main/Evidencia2B.rar)
 
 [Presentacion 3 ARIMA y supuestos](https://github.com/Emilio741/FCFM/blob/main/3.ARIMAySupuestos.pdf)
 
