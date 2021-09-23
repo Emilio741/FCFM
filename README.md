@@ -61,6 +61,8 @@ Esperanza Vida Tarea
 
 [Evaluación 1 Tutorial](https://youtu.be/aDx25HgZu5s)
 
+[Evaluación 1 Calificación ](https://github.com/Emilio741/FCFM/blob/main/evaluacion1.zip)
+
 
 ### Investigación de Operaciones
 #### Parcial 1
