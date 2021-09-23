@@ -74,3 +74,5 @@ Esperanza Vida Tarea
 
 [Parcial 1 Contestado](https://github.com/Emilio741/FCFM/blob/main/EP1_LMRE1852600.pdf)
 #### Parcial 2
+
+[Método Simplex](https://youtu.be/wPwT-SPNbi4)
