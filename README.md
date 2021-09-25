@@ -31,6 +31,8 @@ Esperanza Vida Tarea
 
 [Clase 5](https://youtu.be/dwbsnSfhAoY)
 
+[Clase 6](https://youtu.be/JOgXdbDNODM)
+
 ### Estadística Aplicada
 
 #### Series de Tiempo
@@ -61,7 +63,7 @@ Esperanza Vida Tarea
 
 [Evaluación 1 Tutorial](https://youtu.be/aDx25HgZu5s)
 
-[Evaluación 1 Calificación ](https://github.com/Emilio741/FCFM/blob/main/evaluacion1.zip)
+[Evaluación 1 Calificación 28/30](https://github.com/Emilio741/FCFM/blob/main/evaluacion1.zip)
 
 
 ### Investigación de Operaciones
