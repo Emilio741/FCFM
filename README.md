@@ -80,3 +80,5 @@ Esperanza Vida Tarea
 #### Parcial 2
 
 [Método Simplex](https://youtu.be/wPwT-SPNbi4)
+
+[Tarea 2 ](https://github.com/Emilio741/FCFM/blob/main/Tarea%202.pdf)
