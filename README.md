@@ -6,9 +6,7 @@
 #### Parcial 2 
 
 [Esperanza Vida PPT](https://github.com/Emilio741/FCFM/blob/main/3.5.%20Esperanza%20de%20vida%20falta%20incluir%20media%20y%20mediana%20formulas%20Pressant.pdf)
-
 [Esperanza Vida Excel](https://github.com/Emilio741/FCFM/blob/main/e0.xlsx)
-
 [Esperanza Vida Libro](https://github.com/Emilio741/FCFM/blob/main/MEDIA%20MODA%20Y%20MEDIANA%20PRESSAT.pdf)
 
 Esperanza Vida Tarea
@@ -23,15 +21,10 @@ Esperanza Vida Tarea
 
 [Clase 1](https://youtu.be/OLkCPlnLbQ0)
 [Clase 2](https://youtu.be/vbLJ6Ujk3OE)
-
 [Clase 3](https://youtu.be/mbbNsFAdZ6Y)
-
 [Clase 4](https://youtu.be/kQkD2UWvLuQ)
-
 [Clase 5](https://youtu.be/dwbsnSfhAoY)
-
 [Clase 6](https://youtu.be/JOgXdbDNODM)
-
 [Clase 7](https://youtu.be/ths2-B06Obo)
 
 ### Estadística Aplicada
@@ -39,31 +32,21 @@ Esperanza Vida Tarea
 #### Series de Tiempo
 
 [Presentacion 1](https://github.com/Emilio741/FCFM/blob/main/1.Series_de_Tiempo.pdf)
-
 [Evidencia 1 Calificacion 80](https://github.com/Emilio741/FCFM/blob/main/Evidencia1A.rar)
 
 [Presentacion 2 Modelos de Series Estacionarias](https://github.com/Emilio741/FCFM/blob/main/2.Modelos_Series_Estacionarias.pdf)
-
 [Evidencia 2 Calificacion 95](https://github.com/Emilio741/FCFM/blob/main/Evidencia2B.rar)
 
 [Presentacion 3 ARIMA y supuestos](https://github.com/Emilio741/FCFM/blob/main/3.ARIMAySupuestos.pdf)
-
 [Evidencia 3  Sin tocar](https://github.com/Emilio741/FCFM/blob/main/Evidencia3.pdf)
-
 [Evidencia 3 CSV](https://github.com/Emilio741/FCFM/blob/main/SerieTempMaxMty.csv)
-
 [Evidencia 3 Tutorial Parte 1](https://youtu.be/MLJ6iIL-REU)
-
 [Evidencia 3 Tutorial Parte 2](https://youtu.be/wgKh5rpT_gM)
-
 [Evidencia 3 Tutorial Parte 3](https://youtu.be/t_a2xKsv_TU)
-
 [Evidencia 3 Calificación 80](https://github.com/Emilio741/FCFM/blob/main/Evidencia3.rar)
 
 [Evaluación 1](https://github.com/Emilio741/FCFM/blob/main/PR[IMERA%20EVALUACIO%CC%81N.pdf)
-
 [Evaluación 1 Tutorial](https://youtu.be/aDx25HgZu5s)
-
 [Evaluación 1 Calificación 28/30](https://github.com/Emilio741/FCFM/blob/main/evaluacion1.zip)
 
 
@@ -76,7 +59,6 @@ Esperanza Vida Tarea
 [Presentación 2: Progrmación Matemática](https://github.com/Emilio741/FCFM/blob/main/2%20-%20Programacion%20matematica.pdf)
 
 [Parcial 1](https://github.com/Emilio741/FCFM/blob/main/1erparcial_IO3.pdf)
-
 [Parcial 1 Contestado](https://github.com/Emilio741/FCFM/blob/main/EP1_LMRE1852600.pdf)
 #### Parcial 2
 
