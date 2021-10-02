@@ -22,7 +22,6 @@ Esperanza Vida Tarea
 #### Parcial 2 
 
 [Clase 1](https://youtu.be/OLkCPlnLbQ0)
-
 [Clase 2](https://youtu.be/vbLJ6Ujk3OE)
 
 [Clase 3](https://youtu.be/mbbNsFAdZ6Y)
