@@ -67,3 +67,4 @@ Esperanza Vida Tarea
 [Tarea 2 ](https://github.com/Emilio741/FCFM/blob/main/Tarea%202.pdf)
 
 [Método 2 parte 1](https://youtu.be/MSEE_vHLI6k)
+[Método 2 parte 2](https://youtu.be/7GyF6caTGtw)
