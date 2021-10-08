@@ -68,3 +68,5 @@ Esperanza Vida Tarea
 
 [Método 2 parte 1](https://youtu.be/MSEE_vHLI6k)
 [Método 2 parte 2](https://youtu.be/7GyF6caTGtw)
+
+[Parcial 2 Tutorial](https://youtu.be/ZWjZyV2nsMg)
