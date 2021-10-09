@@ -49,6 +49,9 @@ Esperanza Vida Tarea
 [Evaluación 1 Tutorial](https://youtu.be/aDx25HgZu5s)
 [Evaluación 1 Calificación 28/30](https://github.com/Emilio741/FCFM/blob/main/evaluacion1.zip)
 
+#### Análisis Superviviencia
+
+[Evidencia B Tutorial](https://youtu.be/M_ss1FsE5bM)
 
 ### Investigación de Operaciones
 #### Parcial 1
