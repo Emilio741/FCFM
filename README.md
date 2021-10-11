@@ -27,6 +27,8 @@ Esperanza Vida Tarea
 [Clase 6](https://youtu.be/JOgXdbDNODM)
 [Clase 7](https://youtu.be/ths2-B06Obo)
 [Clase 8](https://youtu.be/ywD2UIWJXkU)
+
+[Parcial 2 LATEX TUTORIAL](https://youtu.be/q3feX0XtMs8)
 ### Estadística Aplicada
 
 #### Series de Tiempo
